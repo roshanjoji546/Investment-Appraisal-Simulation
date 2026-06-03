@@ -18,3 +18,12 @@ A Monte Carlo simulation containing 15,000 independent iterations was carried ou
 Summary statistics including mean NPV, median NPV, probability of loss, and percentile measures were calculated to assess expected return and investment risk. A histogram of NPVs from the simulation was produced to visualise the distribution of outcomes.
 
 The simulation results were compared with an analytical, expected-value approach to show the advantages of Monte Carlo simulation in modelling uncertainty, and quantifying downside risk and upside potential. The results were then used to provide an evidence-based recommendation on whether the company should proceed with the investment.
+
+### Skills Demonstrated
+* Monte Carlo Simulation
+* Financial Modelling
+* NPV Analysis
+* Probability Distributions
+* Microsoft Excel
+* Data Visualisation
+* Communication of Findings
