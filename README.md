@@ -6,10 +6,10 @@ This investment involved purchasing a cement mixer for £33,000, hiring it out a
 
 Several uncertain variables existed and were modelled using discrete probability distributions based on estimates provided by management. These variables included:
 
-*Number of hire days per year
-*Maintenance costs in Year 1
-*Maintenance costs in Year 2
-*Resale value of the cement mixer
+* Number of hire days per year
+* Maintenance costs in Year 1
+* Maintenance costs in Year 2
+* Resale value of the cement mixer
 
 An NPV model was constructed using discounted cash flow techniques, with a discount rate of 15%. Cash inflows from hiring out the mixer and resale value, along with cash outflows from maintenance costs and initial purchase cost, were incorporated into the model.
 
